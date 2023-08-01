@@ -14,3 +14,4 @@
 - Operation: Siege /\ https://www.roblox.com/games/10171072079/
 - ENTRENCHED /\ https://www.roblox.com/games/3678761576/
 - Murderers vs Sheriffs Duels /\ https://www.roblox.com/games/12355337193
+- Phantom Forces /\ https://www.roblox.com/games/292439477/Phantom-Forces-Scope-Revamp#ropro-quick-search
