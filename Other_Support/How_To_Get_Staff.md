@@ -1,11 +1,9 @@
-# so you want staff???
+# want staff?
 
-- alright head to the server and go to the application channel ![image](https://github.com/sharkifyy/SwimHubROBLOX/assets/130886630/c8e354b4-c30c-4a9d-92e8-b3506cdea3da)
-- after that click the channel and see if apps are opened if it says  **{"OPEN"}** then you can apply ![image](https://github.com/sharkifyy/SwimHubROBLOX/assets/130886630/1faa4271-5c73-4763-841e-7cf88fc65400)
-- but if they dont and they say the lines of **{"NOT OPEN"}** then you cannot apply please wait until they are up!
+- at the moment once The Managers want to hire more staff they will  most likely send a text with a format like this in either staff announcements or normal announcements -> ![image](https://github.com/sharkifyy/SwimHubROBLOX/assets/130886630/a6383695-842d-4399-a4f7-427873c22686)
+# if not then it'll be either google docs/Dyno Docs.
 
-- but if they are open then please read the requirements: ![image](https://github.com/sharkifyy/SwimHubROBLOX/assets/130886630/dbfa119d-8bd1-4f0c-a558-2d37188e959d)
- 
-- nice you pass the requirements???? great! in your app please give us detailed responses. and please be professional
+- if it is the DM ```Said Staff``` then dm that ```said staff``` saying "i wanna apply", or "i would like to become support" and don't rush them. after that they will continue with the 2nd process. no more info will be shared..
 
-- once you get accepted the managers will DM you and we will ask you a few questions.
+
+# ⚠️MORE COMING SOON⚠️
