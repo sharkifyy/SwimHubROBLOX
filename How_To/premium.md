@@ -1,15 +1,9 @@
 # how to buy premium?
 
-- join the server: you can join at: https://discord.gg/protogengay
+1. join the [server](https://discord.gg/swimhub)
+2. after you joined go into [this channel](https://discord.com/channels/1133990339267530792/1139713222249824327)
+3. after that make sure you read the TOS: ![image](https://github.com/sharkifyy/SwimHubROBLOX/assets/130886630/3505c40e-f91f-4bae-9f69-5967c6aa0634)
+4. after you understand the TOS, there will be info on how to buy and make the ticket!
+5. then head over to [ticket support](https://discord.com/channels/1133990339267530792/1139715727448879155)
 
-- make sure you verify and do the steps the bot tells you to do.
-
-- after that scroll down to the channels: ![image](https://github.com/sharkifyy/SwimHubROBLOX/assets/130886630/63d58a35-de5f-4850-bf40-abed1c9e57b2)
- and go to it and read how it works
-
- - then after that make a ticket: ![image](https://github.com/sharkifyy/SwimHubROBLOX/assets/130886630/abc7771a-ea5a-46ec-b523-c4456900aef7) then wait for a support to respond then after that tell the support that you have bought and show proof.
-
- -  then wait for them to whitelist you.
- 
-⚒️
-
+6. after that you made a ticket, the support team can help you out!
