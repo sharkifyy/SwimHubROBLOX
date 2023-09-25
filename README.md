@@ -11,7 +11,7 @@ this isn't the main script this is a Documentation on how to use swimhub in robl
 - you can find what swimhub works on [here](https://raw.githubusercontent.com/sharkifyy/SwimHubROBLOX/main/game%20supported.md)
 
 # staff apps note requirements could change at anytime
--  staff apps [here](https://github.com/sharkifyy/SwimHubROBLOX/blob/main/Other_Support/How_To_Get_Staff.md)
+-  staff apps [here](https://github.com/sharkifyy/SwimHubROBLOX/blob/main/FAQ/Server%20FAQ/how%20to%20get%20staff.md)
 
 
 
