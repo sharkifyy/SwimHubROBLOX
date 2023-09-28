@@ -10,6 +10,6 @@ things to know before applying.
 
 if you still wish to apply you can proceed [here](https://docs.google.com/forms/d/e/1FAIpQLSfwjCp8Uff6BN3UB9GZgdX7JCMlYWxpRdJw42CexsmmnkLIww/viewform)
 
-# apps are currently (🟩OPEN)
+# apps are currently (🔴OFF)
 
 ```note: please dont ask staff about your app, if you got accepted we will let you know.```
